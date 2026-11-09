@@ -8,4 +8,5 @@
 
 - 大同區：[Bitter Burro](Taipei/BitterBurro.md)
 - 大安區：[美月 Bar Memoon](Taipei/BarMemoon.md)
+- 大安區：[Bar Pine 松](Taipei/BarPine.md)
 
